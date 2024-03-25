@@ -1,0 +1,8 @@
+Algorítmo - Somar dois números
+
+Forma de narrativa de descritiva:
+
+1-Receber primeiro número
+2-Receber segundo número
+3-Calcula a soma entre os números
+4-Exibir resultado final

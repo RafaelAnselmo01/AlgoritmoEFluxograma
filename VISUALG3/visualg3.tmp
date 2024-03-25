@@ -1,0 +1,53 @@
+Algoritmo "Calcular a área de um quadrado"
+// Disciplina  : [Linguagem e Lógica de Programação] 
+// Professor(a): Glauco Luiz P. de Campos 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Rafael Anselmo
+// Data atual  : 15/05/2023
+Var
+// Seção de Declarações das variáveis 
+r, lado, lado2: real
+p, area: real
+resultado: caractere
+
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+Escreval("Calcular a área de um quadrado")
+escreval
+
+Escreva("Digite a forma")
+leia(resultado)
+
+ Escolha(resultado)
+ Caso "Retangulo"
+
+  Escreva ("Cacule a área1: ")
+  leia(lado)
+
+    Escreva ("Cacule a área2: ")
+    leia(lado2)
+
+     area <- (lado * lado2)
+
+      Escreval(area)
+
+      caso "quadrado"
+      leia(lado)
+      
+      area <- (lado * lado)
+      Escreval(area)
+      
+       Caso "circulo"
+       Escreva ("digite r: ")
+       leia(r)
+       
+       p <- pi * (r * r)
+       Escreva(p)
+      
+
+
+ FimEscolha
+
+Fimalgoritmo
