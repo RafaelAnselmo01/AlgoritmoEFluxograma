@@ -1,0 +1,1 @@
+Olá, esses arquivos contém vários exercícos com fluxogramas e a resposta dos exercícios no programa VISUALG3 como Algoritmo de RH, Calculadora, Conversão de moeda, Função IMC, Laço de repetição entre outros.
